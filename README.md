@@ -1,7 +1,7 @@
 # ♕︎ 𝗧𝗛𝗘 𝗨𝗥𝗔𝗡𝗜𝗨𝗠 ♕︎
 ## ☯︎ Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ ☯︎
 
-[![♡︎Dᴇᴘʟᴏʏ♡︎](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Uranium77/URANIUM-MULTI-SPAMBOT2.git)
+[![♡︎Dᴇᴘʟᴏʏ♡︎](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Uranium77/JOKER-MULTI-SPAMBOT2.git)
 
 -------
 
@@ -18,10 +18,10 @@
 ----
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/URANIUM_FIGHTERS"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ALL_SPAMMER"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - [Rᴇᴅɪʀᴇᴄᴛ](https://t.me/THE_URANIUM)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - [Rᴇᴅɪʀᴇᴄᴛ](https://t.me/MR_JOKER)
 
 -------------------------------------------------
